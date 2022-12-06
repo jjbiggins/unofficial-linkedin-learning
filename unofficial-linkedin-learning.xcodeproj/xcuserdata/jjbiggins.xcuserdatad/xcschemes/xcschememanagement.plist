@@ -6,8 +6,38 @@
 	<dict>
 		<key>unofficial-linkedin-learning.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>unofficial-linkedin-learningTests.xcscheme_^#shared#^_</key>
+		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>unofficial-linkedin-learningUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3C617DDB293EF2BD00F4D7CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C617DEB293EF2BE00F4D7CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C617DF5293EF2BE00F4D7CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
